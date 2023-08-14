@@ -1,0 +1,44 @@
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family:arial;
+}
+.vdeo-title{
+     font-size: 16px;
+     font-weight: bold;
+     width:280px;
+     line-height: 24px;
+     
+}
+.vdeo-sts{
+    margin-top: 5px;
+    margin-bottom: 16px;
+    color:rgb(96,96,96);
+}
+.vdeo-author{
+    margin-bottom: 16px;
+    color:rgb(96,96,96);
+    
+}
+.vdeo-des{
+    width:300px;
+    line-height: 22px;
+    color:rgb(96,96,96);
+}
+.vdeo{
+    margin-top: 75px;
+    color:white;
+    background-color: rgb(240, 7, 7);
+    border:none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left:15px;
+    padding-right:15px;
+    text-align:center;
+}
+
+.vd:hover{
+    text-decoration: underline;
+    cursor:pointer;
+
+}
